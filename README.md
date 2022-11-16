@@ -8,7 +8,7 @@ https://muzan67.github.io/run-buddy/
 
 https://github.com/Muzan67/run-buddy
 
-## Description
+## User Story
 
 Run Buddy, a company that matches runners with personal trainers and services.
 
@@ -16,7 +16,6 @@ Run Buddy, a company that matches runners with personal trainers and services.
 
 - Run Buddy - Deployed Application
 - Run Buddy - Github Repository
-- Description
 - User Story
 - Technologies Used
 - Installation
